@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Mohamed Abdelmoniem Diab</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Abdelmoniem Diab</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 - 📫 How to reach me **mohameddiab.work@gmail.com**
@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ mohamed-diab01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ mohamed-diab01" height="30" width="40" /></a>
-<a href="[https://fb.com/mnǯm](https://www.facebook.com/profile.php?id=100027161600481)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mnǯm" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100027161600481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100027161600481" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mn3mmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mn3mmm" height="30" width="40" /></a>
 </p>
 
